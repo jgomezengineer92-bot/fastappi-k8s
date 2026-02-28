@@ -185,3 +185,9 @@ GitHub: [@jaiderreyes](https://github.com/jaiderreyes)
 ## ⚖️ Licencia
 
 Este proyecto está bajo la licencia MIT.
+<img width="827" height="909" alt="image" src="https://github.com/user-attachments/assets/9f7109d2-e06c-437b-a687-857a5d3d377e" />
+
+
+<img width="826" height="303" alt="image" src="https://github.com/user-attachments/assets/5976f35b-a65d-4993-957b-150423d9bd45" />
+
+<img width="953" height="931" alt="image" src="https://github.com/user-attachments/assets/9561339d-97d0-41ed-be0e-b18a6d8ab8b3" />
