@@ -27,6 +27,7 @@ spec:
       containers:
       - name: fastapi-app
         image: fastapi-app:latest
+        imagePullPolicy: IfNotPresent
         env:
           - name: REDIS_HOST
             value: redis
